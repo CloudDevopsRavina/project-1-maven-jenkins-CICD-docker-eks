@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h2>This course for the AWS DEVOPS </h2>
+    <h3>This course for the AWS DEVOPS building jenking project </h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
